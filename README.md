@@ -1,7 +1,9 @@
 # WormPlay
 Interactive player for playing and rendering a Performance Worm from the WormFile format while sounding the hyperlinked audio file. 
 
-![WormPlay Application](./WormPlay.png)
+<div align="center">
+  <img src="./WormPlay.png" alt="WormPlay Application" width="50%" />
+</div>
 
 This JAVA application implements the original Performance Worm concept as described in the following paper:
 
