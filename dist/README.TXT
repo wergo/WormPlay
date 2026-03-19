@@ -14,8 +14,8 @@ type the following:
 java -jar "WormPlay.jar" 
 
 The dist folder requires two libraries inside dist/lib:
-jmf.jar (Java Media Framework)
-Plot.jar (the WG plot package)
+jmf.jar ([Java Media Framework](https://www.oracle.com/java/technologies/javase/jmf-211e-download.html))
+Plot.jar (the [WG plot package](https://iwk.mdw.ac.at/goebl/plot/Plot.jar))
 
 To distribute this project, zip up the dist folder (including the lib folder)
 and distribute the ZIP file.
