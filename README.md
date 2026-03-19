@@ -18,9 +18,12 @@ Dixon, S., Goebl, W., Widmer, G., & Nordahl, M. (2002). The Performance Worm: Re
 
 The application is available as a JAR file in the releases section of this repository. The source code is also available for those interested in exploring or modifying the application.
 
-## Installation
+## Installation and dependencies
 
-To install, simply download the content of the dist folder including the dist/lib subdirectory containing the plot package (Plot.jar). You will additionally need to have the Java Media Framework (jmf.jar) copied into the dist/lib folder. 
+To install, simply download the content of the dist folder including the dist/lib subdirectory. The WormPlay packages requires these other libraries to be present in the dist/lib folder:
+
+- The plot package ([Plot.jar](https://iwk.mdw.ac.at/goebl/plot/Plot.jar)), already in dist/lib
+- [Java Media Framework](https://www.oracle.com/java/technologies/javase/jmf-211e-download.html) (jmf.jar) to be copied into the dist/lib folder. 
 
 ## Usage
 
