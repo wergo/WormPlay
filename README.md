@@ -1,6 +1,8 @@
 # WormPlay
 Interactive player for playing and rendering a Performance Worm from the WormFile format while sounding the hyperlinked audio file. 
 
+![WormPlay Application](./wormplay.png)
+
 This JAVA application implements the original Performance Worm concept as described in the following paper:
 
 Langner, J., & Goebl, W. (2003). Visualizing expressive performance in tempo–loudness space. Computer Music Journal, 27(4), 69–83. https://doi.org/10.1162/014892603322730514
