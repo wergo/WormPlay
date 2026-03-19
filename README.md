@@ -1,14 +1,8 @@
 
-DOI: 10.5281/zenodo.19115872 
-
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19115872.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.19115872.svg)
-
-
-[![DOI](https://zenodo.org/badge/355873489.svg)](https://zenodo.org/badge/latestdoi/355873489)
-
-
 # WormPlay
+
+[![DOI](https://zenodo.org/badge/1186423031.svg)](https://doi.org/10.5281/zenodo.19115871)
+
 Interactive player for playing and rendering a Performance Worm from the WormFile format while sounding the hyperlinked audio file. 
 
 <div align="center">
