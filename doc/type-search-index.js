@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Alle Klassen und Schnittstellen","u":"allclasses-index.html"},{"p":"at.ofai.music.wgworm","l":"PlayControl"}];updateSearchResults();
