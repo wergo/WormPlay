@@ -14,9 +14,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy javadoc to Github Pages
-        uses: dev-vince/actions-publish-javadoc@v1.0.1
+        uses: MathieuSoysal/Javadoc-publisher.yml@v2.3.0
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          java-version: "25.0.0+36.0.LTS" # Replace with your java version. Default is 17
-          java-distribution: "adopt" # The distributor of the target JDK. See https://github.com/actions/setup-java for more information. Defauly is adopt
+          target-folder: "doc" # The folder where the generated javadoc will be stored. Default is docs
           branch: "gh-pages" # The branch for the javadoc contents. By default gh-pages
+          
