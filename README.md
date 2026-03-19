@@ -18,7 +18,11 @@ Dixon, S., Goebl, W., Widmer, G., & Nordahl, M. (2002). The Performance Worm: Re
 
 The application is available as a JAR file in the releases section of this repository. The source code is also available for those interested in exploring or modifying the application.
 
-To install, simply download the content of the dist folder including the dist/lib subdirectory. You will additionally need to hav the Java Media Framework (jmf.jar) copied into the dist/lib folder. 
+## Installation
+
+To install, simply download the content of the dist folder including the dist/lib subdirectory containing the plot package (Plot.jar). You will additionally need to have the Java Media Framework (jmf.jar) copied into the dist/lib folder. 
+
+## Usage
 
 To run the application, cd into the dist folder and type the following command in the terminal:
 
@@ -39,6 +43,8 @@ To convert the worm file to a series of image files, use the following command:
 ```java -jar WormPlay.jar myWormFile.worm movie gif```
 
 This will create a series of gif files in the current directory, one for each frame of the worm animation. You can adjust the output format (gif, png, jpg) as needed.
+
+## Demo Worm Files
 
 Some example worm files are available in the dist folder for testing the application. You can also create your own worm files using the specifications outlined in [the WORMfile specifications](WORMfileFormat_readme_1.07.txt) or by using any software that can export to the WormFile format. To inspect demo videos of the application, please see https://iwk.mdw.ac.at/goebl/animations/. 
 
