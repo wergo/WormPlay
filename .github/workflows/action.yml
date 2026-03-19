@@ -19,5 +19,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           java-version: "25.0.0+36.0.LTS" # Replace with your java version. Default is 17
           java-distribution: "adopt" # The distributor of the target JDK. See https://github.com/actions/setup-java for more information. Defauly is adopt
-          project: gradle # The project type. By default maven
           branch: "gh-pages" # The branch for the javadoc contents. By default gh-pages
