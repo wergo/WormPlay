@@ -36,6 +36,6 @@ To convert the worm file to a series of image files, use the following command:
 
 This will create a series of gif files in the current directory, one for each frame of the worm animation. You can adjust the output format (gif, png, jpg) as needed.
 
-Some example worm files are available in the dist folder for testing the application. You can also create your own worm files using the specifications outlined in the original papers or by using any software that can export to the WormFile format. To inspect demo videos of the application, please see https://iwk.mdw.ac.at/goebl/animations/. 
+Some example worm files are available in the dist folder for testing the application. You can also create your own worm files using the specifications outlined in [the WORMfile specifications](WORMfileFormat_readme_1.07.txt) or by using any software that can export to the WormFile format. To inspect demo videos of the application, please see https://iwk.mdw.ac.at/goebl/animations/. 
 
 
