@@ -19,4 +19,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           target-folder: "docs" # The folder where the generated javadoc will be stored. Default is docs
           javadoc-branch: "main" # The branch for the javadoc contents. By default gh-pages
+          custom-command: javadoc -d javadoc -sourcepath src -subpackages .
           
